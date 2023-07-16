@@ -383,21 +383,6 @@ a:hover {
   }
 }
 
-.skill-mf span {
-  color: #4e4e4e;
-}
-
-.skill-mf .progress {
-  background-color: #cde1f8;
-  margin: 0.5rem 0 1.2rem 0;
-  border-radius: 0;
-  height: 0.7rem;
-}
-
-.skill-mf .progress .progress-bar {
-  height: 0.7rem;
-  background-color: #0078ff;
-}
 .lead{
   text-align: center;
 }
@@ -413,26 +398,26 @@ a:hover {
   text-align: center;
 }
 
-.service-box:hover .ico-circle {
+.service-box:hover {
   transition: all 500ms ease;
   color: #fff;
   background-color: #0078ff;
   box-shadow: 0 0 0 10px #cde1f8;
 }
 
-.service-box .service-ico {
+.service-box {
   margin-bottom: 1rem;
   color: #1e1e1e;
 }
 
-.service-box .ico-circle {
+.service-box {
   transition: all 500ms ease;
   display: inline-flex;
   align-items: center;
   justify-content: center;
 }
 
-.service-box .ico-circle i {
+.service-box i {
   line-height: 0;
   font-size: 40px;
 }
@@ -452,7 +437,7 @@ a:hover {
 # Contact
 --------------------------------------------------------------*/
 .footer-paralax {
-  padding: 4rem 0 0 0;
+  padding: 2rem 0 0 0;
 }
 
 
