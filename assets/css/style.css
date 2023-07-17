@@ -16,6 +16,7 @@ h4,
 h5,
 h6 {
   color: #1e1e1e;
+  font-family: 'Cinzel', 'sanserif';
 }
 
 a {
@@ -135,6 +136,7 @@ a:hover {
   font-weight: 600;
   color: #1e1e1e;
   font-size: 1.1rem;
+  font-family: 'Cinzel', 'sanserif';
 }
 
 /*--/ Title A /--*/
